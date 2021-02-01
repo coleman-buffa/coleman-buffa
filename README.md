@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+
+My name is Coleman Buffa and I am a full stack developer currently training at the UC Berkeley Extension program. Learning so many new skills in a short time is a great experience and I look forward to finding a job as a developer in the near future.
 
 <!--
 **coleman-buffa/coleman-buffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
