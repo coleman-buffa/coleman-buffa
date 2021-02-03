@@ -4,6 +4,6 @@ My name is Coleman Buffa and I am a full stack developer currently training at t
 
 Like many developers I learn best when I build something. Everytime I build something I aim to have a blend of something familiar, a skill that needs improving, and a concept that is entirely new. This makes projects do-able but challenging so I can improve.
 
-![Coleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=coleman-buffa&show_icons=true&theme=onedark)
+![Coleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=coleman-buffa&show_icons=true&theme=monokai )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleman-buffa&layout=compact&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleman-buffa&layout=compact&theme=monokai )
