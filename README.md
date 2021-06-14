@@ -5,7 +5,7 @@ My name is Coleman Buffa and I am a Full Stack developer. I enjoy building a var
 Topics I am exploring:
 * Expanding my Full Stack development skills
 * Container hosting and orchestration on a Raspberry Pi 4
-* Experiments with an [Arduino Kit](https://www.elegoo.com/products/elegoo-uno-project-super-starter-kit)
+* Experiments with an [Arduino Uno Kit](https://www.elegoo.com/products/elegoo-uno-project-super-starter-kit)
 
 
 ![Coleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=coleman-buffa&show_icons=true&theme=monokai)
