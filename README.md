@@ -4,8 +4,8 @@ My name is Coleman Buffa and I am a full stack developer. evelopers I learn best
 
 Topics I am exploring:
 * Expanding my Full Stack Development Skills
-* Container hosting and orchestration on a raspberry pi 4
-* CI/CD
+* Container hosting and orchestration on a Raspberry Pi 4
+* Experiments with an [Arduino Kit](https://www.elegoo.com/products/elegoo-uno-project-super-starter-kit) 
 
 I am currently seeking full time employment!
 
