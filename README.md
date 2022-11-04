@@ -4,7 +4,6 @@ My name is Coleman Buffa and I am a developer (among many things). I enjoy build
 
 Topics I am exploring:
 * Expanding my Full Stack development skills
-* Container hosting and orchestration on a Raspberry Pi 4
 * Experiments in electronics using Arduino Uno Kits
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coleman-buffa&layout=compact&theme=monokai)
